@@ -1,0 +1,19 @@
+.info {
+    min-height: 100vh;
+    background: azure;
+    text-align: center;
+    font-size: x-large;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    justify-content: center;
+}
+
+svg{
+    font-size: -webkit-xxx-large;
+    color: dimgrey;
+}
+
+.technologies {
+    padding: 10px;
+}

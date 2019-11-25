@@ -1,0 +1,27 @@
+.home {
+    min-height: 100vh;
+    background: cadetblue;
+    text-align: center;
+    font-size: x-large;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    justify-content: center;
+    color: lightgray;
+}
+
+.intro {
+    font-size: 1.5em;
+}
+
+.titles {
+    color: lightgray;
+}
+
+.links {
+    padding: 30px;
+}
+
+a {
+    padding: 10px;
+}

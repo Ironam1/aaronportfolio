@@ -1,0 +1,15 @@
+.portfolio {
+    min-height: 100vh;
+    background: cadetblue;
+    text-align: center;
+    font-size: x-large;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    justify-content: center;
+    color: lightgray;
+}
+
+.card {
+    font-size: medium;
+}

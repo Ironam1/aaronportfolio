@@ -8,16 +8,18 @@ function AppCard(props) {
     <div className="row">
       <div className="card">
         <span className="title">{props.title}</span>
+        <img scr={props.imgage} alt="web site" className="image"></img>
         <p className="description">{props.description}</p>
-        <img scr={props.img} alt="web site" className="image"></img>
-        <a href={props.git} target="blank">
-          {" "}
-          <GoOctoface />
-        </a>
-        <a href={props.deploy} target="blank">
-          {" "}
-          <FaLink />
-        </a>
+        <div className="app-link">
+          <a href={props.git} target="blank">
+            {" "}
+            <GoOctoface />
+          </a>
+          <a href={props.deploy} target="blank">
+            {" "}
+            <FaLink />
+          </a>
+        </div>
       </div>
     </div>
   );

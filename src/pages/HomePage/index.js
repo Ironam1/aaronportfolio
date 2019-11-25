@@ -6,10 +6,12 @@ import { GoFile } from "react-icons/go";
 const HomePage = props => {
   return (
     <div className="home">
-      <div className="intro">Aaron MacInnis</div>
+      <div className="intro">
+        <h1>Aaron MacInnis</h1>
+      </div>
 
       <div className="titles">
-        Full Stack Developer <br></br>Javascript Engineer
+       <h3> Full Stack Developer </h3><h3>Javascript Engineer</h3>
       </div>
 
       <div className="links">
