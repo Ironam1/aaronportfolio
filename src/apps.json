@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Parent's Little Helper",
+        "image": "assets/plh.png",
+        "git": "https://github.com/Ironam1/Project3",
+        "deploy": "https://parentslittlehelper.herokuapp.com/",
+        "description": "Application helping parents track baby's daily activities."
+    },
+    {
+        "id": 2,
+        "name": "Eat da Burger",
+        "image": "assets/burger.png",
+        "git": "https://github.com/Ironam1/burger",
+        "deploy": "https://fathomless-ridge-51887.herokuapp.com/",
+        "description": "CRUD application with a burger theme."
+    },
+    {
+        "id": 3,
+        "name": "Smash Bros, Memory",
+        "image": "assets/click.png",
+        "git": "https://github.com/Ironam1/Clicky",
+        "deploy": "https://ironam1.github.io/Clicky/",
+        "description": "Super Smash Bros. memory game. Don't click on the same icon twice!"
+    },
+    {
+        "id": 4,
+        "name": "Train Time Scheduler",
+        "image": "assets/train.png",
+        "git": "https://github.com/Ironam1/TrainTime",
+        "deploy": "https://ironam1.github.io/TrainTime/",
+        "description": "View train schedule with real time ETAs. Add your own train as well!"
+    },
+    {
+        "id": 5,
+        "name": "NPR News Scraper",
+        "image": "assets/scraper.png",
+        "git": "https://github.com/Ironam1/NewsScraper",
+        "deploy": "https://news-scraper-am1.herokuapp.com/",
+        "description": "Scrape articles using cheerio. Attach notes to saved articles!"
+    },
+    {
+        "id": 6,
+        "name": "",
+        "image": "",
+        "git": "",
+        "deploy": "",
+        "description": ""
+    }
+]
