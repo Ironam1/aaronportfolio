@@ -8,7 +8,7 @@ function AppCard(props) {
     <div className="row">
       <div className="card">
         <span className="title">{props.title}</span>
-        <img scr={props.imgage} alt="web site" className="image"></img>
+        <img scr={props.imgage} alt="screen shot" className="image"></img>
         <p className="description">{props.description}</p>
         <div className="app-link">
           <a href={props.git} target="blank">

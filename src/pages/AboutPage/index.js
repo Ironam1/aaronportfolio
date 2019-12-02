@@ -22,17 +22,17 @@ const AboutPage = props => {
         Hello, welcome to my portfolio. I am a full stack developer and
         javascript engineer. I graduated from the UPenn/Trilogy Bootcamp, an
         immersive 24 week program. I enjoy challenges and am an excellent
-        problem solver. I work well independently and as a team member.
+        problem solver. 
       </p>
       <p>
         An extensive career in the hospitality industry provides me with a
-        diverse and unique skill set. Communication, consistency and time
+        diverse and unique skill set. Communication, dedication, consistency and time
         management are just a few. I am a valuable asset in any work
         environment.
       </p>
       <p>
         I am looking to strengthen my current skills and develop new
-        proficiencies in an environment that promotes growth and provides
+        proficiencies as a member of a team that promotes growth and provides
         opportunities.
       </p>
 

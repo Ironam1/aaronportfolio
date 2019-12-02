@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import { FaLinkedinIn, FaGithubAlt } from "react-icons/fa";
-import { GoFile } from "react-icons/go";
+import { GoFile, GoMail } from "react-icons/go";
 
 const HomePage = props => {
   return (
@@ -11,7 +11,8 @@ const HomePage = props => {
       </div>
 
       <div className="titles">
-       <h3> Full Stack Developer </h3><h3>Javascript Engineer</h3>
+        <h3> Full Stack Developer </h3>
+        <h3>Javascript Engineer</h3>
       </div>
 
       <div className="links">
@@ -35,6 +36,9 @@ const HomePage = props => {
           target="blank"
         >
           <FaGithubAlt />
+        </a>
+        <a href="mailto:https://Ironam1@icloud.com" target="blank">
+          <GoMail />
         </a>
       </div>
     </div>

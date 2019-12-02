@@ -40,11 +40,6 @@
         "description": "Scrape articles using cheerio. Attach notes to saved articles!"
     },
     {
-        "id": 6,
-        "name": "",
-        "image": "",
-        "git": "",
-        "deploy": "",
-        "description": ""
+        
     }
 ]
