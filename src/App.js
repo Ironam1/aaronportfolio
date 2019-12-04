@@ -5,6 +5,7 @@ import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
 // import ContactPage from "./pages/ContactPage";
 import PortfolioPage from "./pages/PortfolioPage";
+import Footer from "./components/Footer";
 
 class App extends React.Component {
   state = {
@@ -18,6 +19,7 @@ class App extends React.Component {
         <AboutPage />
         <PortfolioPage
         apps={this.state.apps} />
+        <Footer />
       </div>
     );
   }
