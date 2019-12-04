@@ -12,13 +12,13 @@
         "name": "Eat da Burger",
         "image": "assets/burger.png",
         "git": "https://github.com/Ironam1/burger",
-        "deploy": "https://fathomless-ridge-51887.herokuapp.com/",
+        "deploy": "https://burger-am1.herokuapp.com/",
         "description": "CRUD application with a burger theme."
     },
     {
         "id": 3,
         "name": "Smash Bros, Memory",
-        "image": "assets/click.png",
+        "image": "assets/clicky.png",
         "git": "https://github.com/Ironam1/Clicky",
         "deploy": "https://ironam1.github.io/Clicky/",
         "description": "Super Smash Bros. memory game. Don't click on the same icon twice!"
