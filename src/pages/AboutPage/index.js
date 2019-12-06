@@ -20,7 +20,7 @@ const AboutPage = props => {
     <div className="info">
       <p>
         Hello, welcome to my portfolio. I am a full stack developer and
-        javascript engineer. I graduated from the UPenn/Trilogy Bootcamp, an
+        javascript engineer with an interest in back end technologies. I graduated from the UPenn/Trilogy Bootcamp, an
         immersive 24 week program. I enjoy challenges and am an excellent
         problem solver. 
       </p>
