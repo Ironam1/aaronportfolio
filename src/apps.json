@@ -30,13 +30,6 @@
         "git": "https://github.com/Ironam1/TrainTime",
         "deploy": "https://ironam1.github.io/TrainTime/",
         "description": "View train schedule with real time ETAs. Add your own train as well!"
-    },
-    {
-        "id": 5,
-        "name": "NPR News Scraper",
-        "image": "assets/scraper.png",
-        "git": "https://github.com/Ironam1/NewsScraper",
-        "deploy": "https://news-scraper-am1.herokuapp.com/",
-        "description": "Scrape articles using cheerio. Attach notes to saved articles!"
     }
+    
 ]
